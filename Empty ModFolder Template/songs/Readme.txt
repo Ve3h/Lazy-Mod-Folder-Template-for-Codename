@@ -1,1 +1,0 @@
-Here's where you will put the songs things. Like chart/data, instrumental, voices, song's scripts, etc.

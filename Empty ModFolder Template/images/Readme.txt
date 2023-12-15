@@ -1,1 +1,0 @@
-Here's where will be the custom images. Like for characters, stages, icons, etc.

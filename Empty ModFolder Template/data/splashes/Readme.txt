@@ -1,1 +1,0 @@
-Tbh i didnt really get how this folder works. Apparently here will be the custom splashes?

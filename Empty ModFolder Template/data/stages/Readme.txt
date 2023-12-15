@@ -1,1 +1,0 @@
-Here will be the stage's XMl and HX files. XML will load the stage graphic. The HX can be used for events that happens on the stage. (like the thunders on the spooky stage)

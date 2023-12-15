@@ -1,1 +1,0 @@
-Things like credits, discord's client ID, menuItems that will be on mainmenu will be.

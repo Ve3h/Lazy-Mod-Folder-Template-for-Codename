@@ -1,1 +1,0 @@
-Dialogue stuff will be on here. For the customs boxes will be on boxes folder, and for custom characters will be on the characters folder.

@@ -1,0 +1,1 @@
+Here you'll put your IN GAME cutscenes. Never used this part bcz it uses spritemap stuff and i dont know how to do that lol.

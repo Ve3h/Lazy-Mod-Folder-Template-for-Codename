@@ -1,0 +1,1 @@
+Here you'll put your custom stage images. For example: Create a folder with your stage name and put your stage images on the folder.

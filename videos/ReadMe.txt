@@ -1,1 +1,1 @@
-Here you put the videos.
+Here you put the videos. (.mp4 videos)

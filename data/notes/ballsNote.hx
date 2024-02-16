@@ -1,0 +1,1 @@
+I'm not about to do a custom Note script bcz is 10amlol. Go use the apurple's script, is verygud.

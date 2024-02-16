@@ -1,0 +1,1 @@
+Here you'll put your custom MainMenu, Options, Storymode images or something. Not gonna lie, i never used that section before lol. So any wrong things here say to me.

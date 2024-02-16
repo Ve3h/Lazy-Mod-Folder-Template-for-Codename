@@ -1,0 +1,1 @@
+Here you'll put your custom difficulties images.
